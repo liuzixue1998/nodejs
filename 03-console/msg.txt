@@ -1,0 +1,4 @@
+name:王顶
+age:40
+JSON:{"name":"王顶","qq":"1234567890"}
+ERROR!something wrong
